@@ -11,7 +11,6 @@
 - 📫 ¡Ponte en contacto conmigo! **dani.jacobof06@gmail.com**
 
 <br>
-
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dl-jacobo-forero?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center"
@@ -33,7 +32,6 @@
 </p>
 
 <br>
-
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
   
