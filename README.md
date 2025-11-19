@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 🌱 Actualmente formo parte del área de sistemas en [Full Services](https://github.com/Full-Services), donde gestiono tareas operativas, soporte técnico y la implementación de mejoras relacionadas con tecnología y desarrollo. Paralelamente continúo fortaleciendo mis habilidades en programación y desarrollo web, con la intención de avanzar hacia el área de ciberseguridad.
+- 🌱 Actualmente formo parte del área de sistemas en [Full Services](https://github.com/Full-Services), donde gestiono tareas operativas, soporte técnico y la implementación de mejoras relacionadas con tecnología y desarrollo. Paralelamente continúo fortaleciendo mis habilidades en programación y desarrollo web, con la intención de avanzar hacia el área de ciberseguridad.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
