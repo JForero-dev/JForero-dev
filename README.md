@@ -7,7 +7,7 @@
 
 
 - 🌱 🌱 Actualmente formo parte del área de sistemas en [Full Services](https://github.com/Full-Services), donde gestiono tareas operativas, soporte técnico y la implementación de mejoras relacionadas con tecnología y desarrollo. Paralelamente continúo fortaleciendo mis habilidades en programación y desarrollo web, con la intención de avanzar hacia el área de ciberseguridad.
-- 
+
 - 📫 ¡Ponte en contacto conmigo! **dani.jacobof06@gmail.com**
 
 <br>
