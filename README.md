@@ -7,7 +7,7 @@
 
 
 - 🌱 🌱 Actualmente formo parte del área de sistemas en [Full Services](https://github.com/Full-Services), donde gestiono tareas operativas, soporte técnico y la implementación de mejoras relacionadas con tecnología y desarrollo. Paralelamente continúo fortaleciendo mis habilidades en programación y desarrollo web, con la intención de avanzar hacia el área de ciberseguridad.
-<br>
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dl-jacobo-forero?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center"
@@ -28,7 +28,6 @@
  </a>
 </p>
 
-<br>
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
   
